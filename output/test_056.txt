@@ -1,1 +1,2 @@
-Program([ConstDecl(a,Id(a))])
+Program([ConstDecl("a",None,Id("a"))
+		])
